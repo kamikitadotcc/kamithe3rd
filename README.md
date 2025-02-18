@@ -1,2 +1,2 @@
-# KamiThe3rd
-KamiThe3rd website
+# KamiKita.cc
+KamiKita website
